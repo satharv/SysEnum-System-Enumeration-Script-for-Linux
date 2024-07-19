@@ -17,3 +17,5 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/sysenum.git
 cd sysenum
+chmod +x sysenum.sh
+./sysenum
